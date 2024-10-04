@@ -11,6 +11,7 @@ use App\Model\Akademik\Pegawai;
  * @package App\Model\Akademik
  * @author Dian Prawira <wiradian84@gmail.com>
  */
+
 class TenagaKependidikan extends Pegawai
 {
     /**

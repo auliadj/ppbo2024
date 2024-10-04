@@ -8,6 +8,7 @@ namespace App\Guest;
  *
  * @package App\Guest
  */
+
 class HomePage
 {
     /**

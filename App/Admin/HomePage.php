@@ -1,7 +1,9 @@
 <?php
 
 namespace App\Admin;
+
 /**
+ * 
  * Class HomePage
  *
  * Kelas ini merepresentasikan halaman depan untuk pengguna admin.

@@ -9,6 +9,7 @@ namespace App\Model\Akademik;
  * @package App\Model\Akademik
  * @author Dian Prawira <wiradian84@gmail.com>
  */
+
 class Pegawai
 {
     /**
