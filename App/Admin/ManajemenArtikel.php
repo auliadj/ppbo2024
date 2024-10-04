@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Admin;
-
 /**
  * Kelas ManajemenArtikel
  *
